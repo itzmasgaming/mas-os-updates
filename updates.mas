@@ -1,0 +1,11 @@
+{
+  "latest": "0.3.3",
+  "released": "2026-11-19",
+  "notes": "Task Manager (Ctrl+Shift+Esc), Close window menu on taskbar app buttons",
+  "payload": {
+    "url": "https://github.com/itzmasgaming/mas-os-updates/releases/download/v0.3.3/mas-update-0.3.3.tar.gz",
+    "sha256": "732e01556430bd1804c1f9f708d9657b9da3d5eb1b64b6d8ef7b2192f9ee11c2"
+  },
+  "reboot": false,
+  "system_upgrade": false
+}
