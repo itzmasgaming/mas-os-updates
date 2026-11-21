@@ -1,17 +1,11 @@
 {
-  "latest": "0.3.5",
+  "latest": "0.3.6",
   "released": "2026-11-21",
-  "notes": "New Explorer-style Files app, full PC info in About, update popup, key-light start-up animation, instant right-click menus",
+  "notes": "Busy pointer when opening apps (and no double-launch), Files opens on This PC with icons, right-click menu fix",
   "payload": {
-    "url": "https://github.com/itzmasgaming/mas-os-updates/releases/download/v0.3.5/mas-update-0.3.5.tar.gz",
-    "sha256": "4907e07c405492c64abbd344bbaf46b5a6df99aa3e0ed307389ddcde900653b1"
+    "url": "https://github.com/itzmasgaming/mas-os-updates/releases/download/v0.3.6/mas-update-0.3.6.tar.gz",
+    "sha256": "8676ce6c5109ce5da660e314240f97396bf22e163f3891c63b163fdff3b4d49b"
   },
-  "reboot": true,
-  "system_upgrade": false,
-  "packages": [
-    "dmidecode",
-    "pciutils",
-    "xorg-xkbcomp",
-    "xorg-xset"
-  ]
+  "reboot": false,
+  "system_upgrade": false
 }
