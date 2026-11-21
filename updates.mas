@@ -1,11 +1,17 @@
 {
-  "latest": "0.3.4",
-  "released": "2026-11-20",
-  "notes": "New Settings with 70+ options in 13 categories; faster taskbar right-click menu",
+  "latest": "0.3.5",
+  "released": "2026-11-21",
+  "notes": "New Explorer-style Files app, full PC info in About, update popup, key-light start-up animation, instant right-click menus",
   "payload": {
-    "url": "https://github.com/itzmasgaming/mas-os-updates/releases/download/v0.3.4/mas-update-0.3.4.tar.gz",
-    "sha256": "d40c3c8e932caee2ea011a396f9ed3ed3d166257dbe298f4f3dc9dc0ccde2d1b"
+    "url": "https://github.com/itzmasgaming/mas-os-updates/releases/download/v0.3.5/mas-update-0.3.5.tar.gz",
+    "sha256": "4907e07c405492c64abbd344bbaf46b5a6df99aa3e0ed307389ddcde900653b1"
   },
-  "reboot": false,
-  "system_upgrade": false
+  "reboot": true,
+  "system_upgrade": false,
+  "packages": [
+    "dmidecode",
+    "pciutils",
+    "xorg-xkbcomp",
+    "xorg-xset"
+  ]
 }
