@@ -1,10 +1,10 @@
 {
-  "latest": "0.3.6",
+  "latest": "0.3.10",
   "released": "2026-11-21",
-  "notes": "Busy pointer when opening apps (and no double-launch), Files opens on This PC with icons, right-click menu fix",
+  "notes": "Settings fix: MAS Update, Colors, Background pages open correctly",
   "payload": {
-    "url": "https://github.com/itzmasgaming/mas-os-updates/releases/download/v0.3.6/mas-update-0.3.6.tar.gz",
-    "sha256": "8676ce6c5109ce5da660e314240f97396bf22e163f3891c63b163fdff3b4d49b"
+    "url": "https://github.com/itzmasgaming/mas-os-updates/releases/download/v0.3.10/mas-update-0.3.10.tar.gz",
+    "sha256": "47aa391539f40b20f14a7717a1cf891e720e72ee783462f9249e948bf451b880"
   },
   "reboot": false,
   "system_upgrade": false
